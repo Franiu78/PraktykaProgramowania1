@@ -1,5 +1,5 @@
 import unittest
-from kalkulator import *
+from komp2.kalkulator import *
 
 # def add(a):
 #     return(1)
